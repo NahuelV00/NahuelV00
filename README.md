@@ -1,16 +1,6 @@
-- 👋 Hi, I’m @NahuelV00
-- 👀 I’m interested in Technology, both hardware and software
-- 😄 Pronouns: Nahue, Flaco 
-- 😄 I Love Typescript
-<!---
-NahuelV00/NahuelV00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
